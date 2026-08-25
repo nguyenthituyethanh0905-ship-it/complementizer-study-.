@@ -1,0 +1,11 @@
+matrix_verb_en,vietnamese_forms,notes
+say,"TODO: e.g. nói",fill in from your actual lexicon file
+think,"nghĩ; cho rằng",from paper Section 2.2 example
+know,"TODO: e.g. biết",fill in from your actual lexicon file
+believe,"tin; tin rằng",from paper Section 2.2 example
+claim,"TODO",fixed-collocation verb (Section 4) -- check exact forms used
+hope,"TODO: e.g. hy vọng",fill in from your actual lexicon file
+feel,"TODO: e.g. cảm thấy",fill in from your actual lexicon file
+argue,"lập luận; cho rằng",from paper Section 2.2 example; fixed-collocation verb (Section 4)
+admit,"TODO: e.g. thừa nhận",fill in from your actual lexicon file
+realize,"TODO: e.g. nhận ra",fill in from your actual lexicon file
