@@ -1,0 +1,3 @@
+spacy>=3.7,<4
+pandas>=2.0
+# after installing, run: python -m spacy download en_core_web_sm

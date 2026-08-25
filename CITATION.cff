@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this pipeline or lexicon, please cite the short paper below (and PhoMT, Doan et al., 2021, for any data derived from it)."
+title: "An extraction and annotation pipeline for Vietnamese complementizer optionality (rằng/là) in parallel corpora"
+type: software
+authors:
+  - name: "[withheld for anonymous review — restore after acceptance]"
+preferred-citation:
+  type: article
+  title: "An extraction and annotation pipeline for Vietnamese complementizer optionality (rằng/là) in parallel corpora: methodology and a descriptive baseline"
+  journal: "International Journal of Corpus Linguistics"
+  status: submitted
+  authors:
+    - name: "[withheld for anonymous review — restore after acceptance]"
