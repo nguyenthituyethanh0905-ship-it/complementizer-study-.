@@ -1,0 +1,5 @@
+# TODO: paste the PhoMT sentence-pair IDs (or line numbers) that made up
+# the actual 40,000-pair random draw used for the baseline reported in the
+# paper (Section 2.1). Because no fixed random seed was used, this file --
+# not the sampling code -- is what lets someone else reproduce the exact
+# same 40,000-pair subset.
